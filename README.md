@@ -1,3 +1,6 @@
+# FASTBuild For Unreal Engine 5.3
+Unreal Engine has out of the box support for FASTBuild but the version it uses by default, 0.99, is fairly old and slow. This repo updates it to version 1.11.
+
 # FASTBuild
 
 FASTBuild is a build system for Windows, OSX and Linux, supporting distributed compilation and object caching. It is used by many game developers, from small independent teams to some of the largest studios in the world.
